@@ -11,6 +11,7 @@ echo Loading.
 echo Authorizing.
 echo Confirming.
 del %temp%
+echo ----------------
 echo Files that are being used will stay!
 echo Perparing to exit.
 echo ...
